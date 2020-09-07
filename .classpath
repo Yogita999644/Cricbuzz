@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/ant-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/ant-launcher-1.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/hamcrest-core-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/snakeyaml-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/jar_files/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/mobiletestingjars/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/mobiletestingjars/java-client-7.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Selenium/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
